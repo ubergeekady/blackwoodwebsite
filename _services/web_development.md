@@ -1,15 +1,16 @@
 ---
 layout: featured
-title: Mobile Application Development
-image: /assets/img/services/01.jpg
-icon: /assets/img/icons/layer-group-solid.svg
-description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete.
+title: Web Development
+icon: /assets/img/icons/algolia-brands.svg
+image: /assets/img/services/02.jpg
+description: We offer end-to-end custom web development services including ground-up bespoke web development, migration, update, & ongoing maintenance services.
+
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
+            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +22,7 @@ description: But I must explain to you how all this mistaken idea of denouncing 
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
+            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

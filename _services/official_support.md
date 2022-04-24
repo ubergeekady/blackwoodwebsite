@@ -3,7 +3,7 @@ layout: featured
 title: Javascript Development
 icon: /assets/img/icons/american-sign-language-interpreting-solid.svg
 image: /assets/img/services/02.jpg
-description: Dedicated support quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: We create first-class web and mobile apps using top JavaScript technology. We have expertise on Node.js, Vue.js, Angular, React and React Native.
 ---
 
 <div class="row">

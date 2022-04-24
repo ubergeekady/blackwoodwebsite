@@ -3,7 +3,8 @@ layout: featured
 title: GoLang Development
 icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/03.jpg
-description: Responsive design parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: Build reliable, efficient, and robust technical solutions with the help of the modern open-source programming language Go. Our dedicated Golang web programmers develop and maintain databases, back-end architecture, servers, command-line apps, APIs, web apps.
+
 ---
 
 <div class="row">
