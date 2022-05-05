@@ -2,17 +2,10 @@
 
 - text: Home
   url: /
-  submenu:
-  - text: Home 2
-    url: /pages/index-2
-  - text: Home 3
-    url: /pages/index-3
 - text: About
   url: /pages/about
 - text: Blog
   url: /pages/blog
-- text: Services
-  url: /pages/services
 - text: Pages
   url: /
   submenu:

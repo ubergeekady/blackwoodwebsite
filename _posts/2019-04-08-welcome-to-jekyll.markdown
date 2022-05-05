@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Jekyll! Go ahead and edit"
 date: 2019-04-08 15:12:09 +0600
 tags: jekyll
-categories: [jekyll update]
+categories: [software engineering]
 author: monica_powell
 post_image: "/assets/img/blog/03.jpg"
 ---

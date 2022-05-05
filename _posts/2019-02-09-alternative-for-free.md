@@ -3,7 +3,7 @@ layout: post
 title: "Alternative Free Way To Be A Prodessional Designer"
 date: 2019-02-09 20:37:13 +0600
 tags: technology education
-categories: [tech]
+categories: [software engineering]
 author: themeix
 post_image: "/assets/img/blog/02.jpg"
 ---

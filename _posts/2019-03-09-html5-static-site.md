@@ -3,7 +3,7 @@ layout: post
 title: "html5 Static Site Generator For All amet facilisis"
 date: 2019-03-09 20:37:13 +0600
 tags: wordpress hosting
-categories: [education, tech]
+categories: [software engineering]
 author: aaron_potts
 post_image: "/assets/img/blog/05.jpg"
 ---

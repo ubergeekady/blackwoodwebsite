@@ -3,7 +3,7 @@ layout: post
 title: "Easily choose from thousan of free themes"
 date: 2019-02-09 20:37:13 +0600
 tags: technology education
-categories: [tips, tech]
+categories: [software engineering]
 author: ecuelass_chapman
 post_image: "/assets/img/blog/08.jpg"
 ---
