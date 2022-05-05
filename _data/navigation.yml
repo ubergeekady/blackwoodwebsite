@@ -6,6 +6,11 @@
   url: /pages/about
 - text: Blog
   url: /pages/blog
+- text: Technologies
+  url: /technologies/python
+  submenu:
+  - text: Python
+    url: /technologies/python
 - text: Services
   url: /
   submenu:
