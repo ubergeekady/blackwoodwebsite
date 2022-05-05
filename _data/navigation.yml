@@ -6,22 +6,20 @@
   url: /pages/about
 - text: Blog
   url: /pages/blog
-- text: Pages
+- text: Services
   url: /
   submenu:
-  - text: Services
-    url: /pages/services
-  - text: Service Details
-    url: /pages/services-details
-  - text: Portfolio
-    url: /pages/portfolio   
-  - text: Portfolio Details
-    url: /pages/portfolio-details 
-  - text: About Us
-    url: /pages/about
-  - text: Contact
-    url: /pages/contact
-  - text: 404
-    url: /pages/404
+  - text: Full Stack Product Engineering
+    url: /services/full_stack_product_engineering
+  - text: GoLang Development
+    url: /services/golang_development
+  - text: Javascript Development
+    url: /services/javascript_development
+  - text: Mobile App Development
+    url: /services/mobile_app_development
+  - text: SAAS Product Development
+    url: /services/saas_product_development
+  - text: Web Development
+    url: /services/web_development
 - text: Contact
   url: /pages/contact
