@@ -9,8 +9,8 @@
 - text: Services
   url: /
   submenu:
-  - text: Full Stack Product Engineering
-    url: /services/full_stack_product_engineering
+  - text: Full Stack Product Development
+    url: /services/full_stack_product_development
   - text: GoLang Development
     url: /services/golang_development
   - text: Javascript Development

@@ -1,10 +1,10 @@
 ---
 layout: featured
-title: Mobile App Development
-icon: /assets/img/icons/layer-group-solid.svg
-description: Full-stack mobile application development services, including ground-up bespoke mobile app development (Native / Cross-platform), migration, update, & ongoing maintenance services.
----
+title: Full Stack Product Development
+icon: /assets/img/icons/address-card-solid.svg
+description: We transform your ideas into market-ready software products, taking scalability, robustness, and customizability into account.
 
+---
 
 
 <div class="row">
