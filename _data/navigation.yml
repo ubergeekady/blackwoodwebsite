@@ -21,5 +21,11 @@
     url: /services/saas_product_development
   - text: Web Development
     url: /services/web_development
+- text: Technologies
+  url: /
+  submenu:
+  - text: Python
+    url: /technologies/python
+
 - text: Contact
   url: /pages/contact
