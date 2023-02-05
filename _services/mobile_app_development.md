@@ -5,14 +5,13 @@ icon: /assets/img/icons/layer-group-solid.svg
 description: Full-stack mobile application development services, including ground-up bespoke mobile app development (Native / Cross-platform), migration, update, & ongoing maintenance services.
 ---
 
-
-
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>SaaS Consulting & Development Services</h3>
-<p>We offer SaaS Consulting Services to help you develop, deploy and manage your software products. Our team of experts works with you to ensure that your product is designed according to the highest standards and meets all market requirements.
-Our SaaS Consulting Services help businesses market and promote software products. We are experts in assisting companies in the transition to the cloud, and we can help your business do the same. Our adept professionals work with you every step to ensure your smooth and successful transition.</p>
+            <h3>Mobile App Development Services</h3>
+            <p>With the advent of technology, nearly 90% of the world has moved to mobile apps in the last one decade. Let Blackwood help you get your next mobile app done in a scalable and robust manner and be live for the world in a seamless way.We maintain bench of experienced Android and IOS App developers in india who can join your project immediately and can act as your remote team working dedicatedly on your project
+
+</p>
         </div>
     </div>
 </div>
@@ -20,21 +19,43 @@ Our SaaS Consulting Services help businesses market and promote software product
 <div class="row">
     <div class="col-md-4">
         <div class="service-details mb-40">
-            <h3>Business Model Consulting</h3>
-            <p>Our business model consulting service is for those who want an overview of the SaaS industry and understand the various business models available. We will help you pick the suitable model for your business and ensure that you can implement it successfully.</p>
+            <h3>Hybrid Mobile Applications</h3>
+            <p>Being a web development agency and a web application company, we reduce your development and maintenance costs and accelerate time-to-market by going cross-platform. Our TCO-driven approach and a shared iOS and Android code base allow you the fragmentation of OSs and devices effectively without compromising user appeal.</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="service-details mb-40">
-            <h3>SaaS Application Development</h3>
-            <p>We offer SaaS application development services to help businesses build scalable, reliable, and secure software products. Our team of professionals assures that your product is always up-to-date and can meet the changing market needs.</p>
+            <h3>Native Mobile Applications</h3>
+            <p>Win a loyal audience with highly customizable & high-performing native mobile apps. As a part of a custom web app development company, our developers create a unified experience with clear layouts and journeys across all screens.</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="service-details mb-40">
-            <h3>MVP Development & Consulting</h3>
-            <p>We help businesses with an MVP development approach with a quicker time to market & a clear roadmap of development phases. projects on time without hassle. We ensure that businesses manifest their objectives with a high-value approach and minimum cost.</p>
+            <h3>Progressive Web Applications</h3>
+            <p>As a web development services company, we create Progressive Web Applications (PWA) to provide a responsive native cross-platform user experience. We can build your PWA from scratch or use ready-made development tools, crafting custom features and user engagement flows.</p>
         </div>
     </div>
+</div>
 
+<div class="row">
+    <div class="col-md-3">
+        <div class="service-details mb-40">
+            <img src="{{site.baseurl}}/assets/newimage/xamarin.png" alt="{{page.title}}">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="service-details mb-40">
+            <img src="{{site.baseurl}}/assets/newimage/flutter.png" alt="{{page.title}}">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="service-details mb-40">
+            <img src="{{site.baseurl}}/assets/newimage/androidstudio.png" alt="{{page.title}}">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="service-details mb-40">
+            <img src="{{site.baseurl}}/assets/newimage/xcode.jpeg" alt="{{page.title}}">
+        </div>
+    </div>
 </div>

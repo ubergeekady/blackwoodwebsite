@@ -1,12 +1,9 @@
 ---
 layout: featured
-title: eCommerce Consulting
+title: eCommerce Development
 icon: /assets/img/icons/algolia-brands.svg
 description: Our eCommerce consulting services help you build robust shopping e-stores to sell more products and increase revenue from your eCommerce business. We use advanced eCommerce technologies and features to enhance the user’s shopping experience.
-
 ---
-
-
 
 <div class="row">
     <div class="col-md-12">

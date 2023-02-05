@@ -1,12 +1,9 @@
 ---
 layout: featured
-title: SAAS Product Development
-icon: /assets/img/icons/ambulance-solid.svg
-description: Our expertise in cloud-based applications makes us a competitive provider of SaaS product development services, with scalable solutions for particular target audiences.
-
+title: Full Stack Web Development
+icon: /assets/img/icons/address-card-solid.svg
+description: We transform your ideas into market-ready software products, taking scalability, robustness, and customizability into account.
 ---
-
-
 
 <div class="row">
     <div class="col-md-12">
@@ -37,5 +34,4 @@ Our SaaS Consulting Services help businesses market and promote software product
             <p>We help businesses with an MVP development approach with a quicker time to market & a clear roadmap of development phases. projects on time without hassle. We ensure that businesses manifest their objectives with a high-value approach and minimum cost.</p>
         </div>
     </div>
-
 </div>

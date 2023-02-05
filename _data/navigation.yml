@@ -9,23 +9,19 @@
 - text: Services
   url: /
   submenu:
-  - text: Full Stack Product Development
-    url: /services/full_stack_product_development
-  - text: GoLang Development
-    url: /services/golang_development
-  - text: Javascript Development
-    url: /services/javascript_development
-  - text: Mobile App Development
-    url: /services/mobile_app_development
-  - text: SAAS Product Development
-    url: /services/saas_product_development
-  - text: eCommerce Consulting
-    url: /services/ecommerce_consulting
+    - text: Full Stack Web Development
+      url: /services/full_stack_web_development
+    - text: Mobile App Development
+      url: /services/mobile_app_development
+    - text: Software Development
+      url: /services/software_development
+    - text: eCommerce Development
+      url: /services/ecommerce_development
 - text: Technologies
   url: /
   submenu:
-  - text: Python
-    url: /technologies/python
+    - text: Python
+      url: /technologies/python
 
 - text: Contact
   url: /pages/contact
